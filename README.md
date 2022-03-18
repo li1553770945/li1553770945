@@ -5,4 +5,4 @@
 
 - :school:	 Nanjing University of Aeronautics and Astronautics
 
-个人主页：[www.peacesheep.xyz](www.peacesheep.xyz)
+个人主页：[http://www.peacesheep.xyz](http://www.peacesheep.xyz)
