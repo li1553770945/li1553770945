@@ -3,6 +3,12 @@
 
 ### 你好 👋
 
+
+
 - :school:	 Nanjing University of Aeronautics and Astronautics
+- :school:	 Southeast University
+
+
+个人主页：[http://peacesheep.xyz](http://peacesheep.xyz)
 
 个人博客：[https://blog.peacesheep.xyz](https://blog.peacesheep.xyz)
