@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=li1553770945&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好 👋
+### Hello 👋
 
 
 
@@ -9,6 +9,7 @@
 - :school:	 Southeast University
 
 
-个人主页：[https://peacesheep.xyz](https://peacesheep.xyz)
+personal page：[https://peacesheep.xyz](https://peacesheep.xyz)
 
-个人博客：[https://blog.peacesheep.xyz](https://blog.peacesheep.xyz)
+personal blog：[https://blog.peacesheep.xyz](https://blog.peacesheep.xyz)
+
