@@ -1,50 +1,57 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=li1553770945&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hello 👋
+# Hello 👋
 
-- Backend / Infra / Agent 开发
-- 关注微服务、系统、LLM & Agent
-- Now: Southeast University
+- Backend / Infra / Agent development  
+- Focused on microservices, systems, LLMs & agents  
+- Now: M.Eng. student @ Southeast University  
 
 ---
 
 ### Education
 
-- :school: Southeast University · 计算机技术硕士 （2023.09 - 2026.06）
-- :school: Nanjing University of Aeronautics and Astronautics · 计算机科学与技术（AI）本科 （2019.09 - 2023.06）
+- :school: Southeast University · M.Eng. in Computer Technology (2023.09 – 2026.06)  
+- :school: Nanjing University of Aeronautics and Astronautics · B.Eng. in Computer Science and Technology (AI) (2019.09 – 2023.06)
 
 ---
 
 ### Work
 
-- 2025.04 - 2025.09 · 阿里巴巴 · 后端 / 基础架构  
-  负责网关 / 微服务基础设施，支持内部系统与智能体集成。
+- 2025.04 – 2025.09 · Alibaba · Backend / Infrastructure  
+  Worked on gateway and microservices infrastructure to integrate internal systems with AI agents.
 
-- 2022.10 - 2023.01 · 字节跳动  · 后端开发  
-  参与商业数据平台服务开发与重构，提升服务治理与迭代效率。
+- 2022.10 – 2023.01 · ByteDance · Backend Developer  
+  Contributed to commercial data platform services, refactoring systems and improving service governance and iteration efficiency.
 
-- 2022.07 - 2022.08 · 腾讯IEG · 后台开发  
-  设计基于 epoll 的对象存储原型，在小文件场景下实现 10 万次/分钟的上下载吞吐。
+- 2022.07 – 2022.08 · Tencent IEG · Backend Developer  
+  Designed an epoll-based object storage prototype, achieving 100k+ small-file uploads/downloads per minute.
+
 ---
 
 ### Projects
 
-- [微服务架构 IM 系统](https://github.com/li1553770945/personalpage-deployment)：基于 RPC + 消息队列 + K8s 的即时通讯后端。
-- [RISC-V 操作系统](https://github.com/li1553770945/PAL_OperatingSystem)：参与内存管理 & 文件系统实现，可在 qemu / 实机运行。
-- [OpenMCP](https://openmcp.kirigaya.cn/)：开发面向 MCP / LLM 的调试与工具调用组件。
+- [Microservices-based IM System](https://github.com/li1553770945/personalpage-deployment):  
+  Instant messaging backend built with RPC, message queues, and Kubernetes.
+
+- [RISC-V Operating System](https://github.com/li1553770945/PAL_OperatingSystem):  
+  Implemented memory management and file system modules, running on both qemu and real hardware.
+
+- [OpenMCP](https://openmcp.kirigaya.cn/):  
+  Tools and debugging components for MCP / LLM integration and tool invocation.
 
 ---
 
 ### Awards
 
-- MCP / Agent 相关竞赛全国冠军
-- ICPC 区域赛银奖、EC-Final铜奖、江苏省程序设计竞赛金奖
-- 研究生操作系统开源创新大赛三等奖
+- National champion in an MCP / agent-related competition  
+- ICPC Asia regional silver, EC-Final bronze, and Jiangsu collegiate programming contest gold  
+- Third prize in the National Graduate Operating System Open-Source Innovation Contest  
 
 ---
 
 ### Links
 
-- personal page: https://peacesheep.xyz
+- personal page: https://peacesheep.xyz  
 - blog: https://blog.peacesheep.xyz
+
