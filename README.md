@@ -1,11 +1,17 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=li1553770945&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 # Hello 👋
 
 - Backend / Infra / Agent development  
 - Focused on microservices, systems, LLMs & agents  
 - Now: M.Eng. student @ Southeast University  
+
+---
+
+### Links
+
+- personal page: https://peacesheep.xyz  
+- blog: https://blog.peacesheep.xyz
 
 ---
 
@@ -49,9 +55,4 @@
 - Third prize in the National Graduate Operating System Open-Source Innovation Contest  
 
 ---
-
-### Links
-
-- personal page: https://peacesheep.xyz  
-- blog: https://blog.peacesheep.xyz
 
