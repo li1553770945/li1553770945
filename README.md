@@ -6,6 +6,8 @@
 - Focused on microservices, systems, LLMs & agents  
 - Now: M.Eng. student @ Southeast University  
 
+You can chat with my AI clone on [my personal page](https://peacesheep.xyz)!
+
 ---
 
 ### Links
